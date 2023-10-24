@@ -1,0 +1,16 @@
+# IT Onboarding Automator - Requirements
+#
+# This project uses only Python standard library modules.
+# No external packages need to be installed.
+#
+# Standard library modules used:
+# - tkinter: GUI framework
+# - csv: CSV file reading and writing
+# - logging: Audit log functionality
+# - datetime: Timestamp generation
+# - os: File system operations
+# - secrets: Secure random password generation
+# - string: Character sets for password generation
+#
+# To run this application, you only need Python 3.x installed.
+# No pip install commands are required.

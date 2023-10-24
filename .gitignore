@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated files
+audit.log
+onboarding_records.csv
+onboarding_report.md
